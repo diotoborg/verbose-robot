@@ -1,0 +1,26 @@
+{
+  "name": "@utilcode/simple-template-advanced-new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/utilcode/simple-template-advanced-new.git"
+  },
+  "dependencies": {
+    "@oraliepham/api-facebooknew": "1.0.5",
+    "@libphamton/chatfanpage": "1.0.5",
+    "@oraliepham/api-chat-fanpage-facebook": "1.2.6",
+    "@oraliepham/api-facebooknew": "1.0.9",
+    "@libphamton/fb-group": "1.0.3",
+    "api-chatfb-test": "1.1.0",
+    "api-chat-fanpage-facebook": "1.2.7",
+    "api-chat-fanpage-facebook": "1.2.6",
+    "api-chatfb": "1.2.3"
+  }
+}
