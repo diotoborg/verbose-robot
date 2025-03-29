@@ -1,6 +1,6 @@
 {
   "name": "@diotoborg/verbose-robot",
-  "version": "13.16.310",
+  "version": "13.16.311",
   "description": "",
   "main": "index.js",
   "author": "diotobenijj",
@@ -422,5 +422,5 @@
   "bugs": {
     "url": "https://github.com/diotoborg/verbose-robot/issues"
   },
-  "packageManager": "yarn@4.7.0"
+  "packageManager": "yarn@4.8.0"
 }
